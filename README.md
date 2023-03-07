@@ -1,4 +1,4 @@
-### Nolus Snapshot Setup
+# Nolus Snapshot Setup
 We take node snapshot every night at 12:00 UTC+3
 
 You can browse the logs for current snapshot date, block height, and file size information.
